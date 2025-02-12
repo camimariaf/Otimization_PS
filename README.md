@@ -8,3 +8,6 @@ Gerencia informações do hotel, disponibilidade e preços.
 
 # Classe Reserva
 Gerencia a criação, modificação e cancelamento de reservas.
+
+# Pagamento
+Processa pagamentos de forma segura.
